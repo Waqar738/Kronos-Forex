@@ -81,7 +81,7 @@ The system can run using CPU inference. A GPU is not required.
 ### Step 1: Clone the repository
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/Kronos-Forex.git
+git clone https://github.com/Waqar738/Kronos-Forex.git
 ```
 
 Move into the project folder:
