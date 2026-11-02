@@ -1,0 +1,24 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# Python environment
+kronos311_env/
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Generated data
+market_data/
+forecasts/
+backtests/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
